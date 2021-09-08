@@ -9,8 +9,9 @@
     "tr7zw"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/members/tr7zw/projects",
-    "sources": "https://github.com/tr7zw"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/not-enough-animations",
+    "sources": "https://github.com/tr7zw/NotEnoughAnimations",
+    "issues": "https://github.com/tr7zw/NotEnoughAnimations/issues"
   },
 
   "license": "MIT",
